@@ -23,7 +23,7 @@ int getKthLargest(vector<int> &arr, int k)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Approach 2: Optimised Code space wise 
+// Approach 2: Optimised Code space wise 
 
 #include<queue>
 int getKthLargest(vector<int> &arr, int k)
